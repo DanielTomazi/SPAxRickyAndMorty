@@ -1,9 +1,6 @@
 # Rick and Morty
 
-[![Build][docker-build-badge]][docker-build-link]
-[![npm][license-icon]][license-link]
-
-This is an Angular project that consumes the
+This is an Angular project that consumes the Rick And Morty API
 
 <img src="./screenshots/desktop-dark.png" style="width:40em; height:auto"/>
 
